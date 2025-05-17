@@ -1,0 +1,743 @@
+{
+  "increases": [
+    {
+      "block_number": 2858126,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 3021178881.3700004,
+      "change_percentage": 65.49831030636201
+    },
+    {
+      "block_number": 2861182,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2802016104.212961,
+      "change_percentage": 78.44294301100797
+    },
+    {
+      "block_number": 2863812,
+      "type": "increase_start",
+      "gas_price": 10000000000,
+      "moving_avg": 4271310002.2799997,
+      "change_percentage": 134.12021123875485
+    },
+    {
+      "block_number": 2864824,
+      "type": "increase_start",
+      "gas_price": 50000000000,
+      "moving_avg": 2837402764.637143,
+      "change_percentage": 1662.1749236010974
+    },
+    {
+      "block_number": 2868570,
+      "type": "increase_start",
+      "gas_price": 2794918163.5,
+      "moving_avg": 712332369.94,
+      "change_percentage": 292.36152692814125
+    },
+    {
+      "block_number": 2869320,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2963994770.0277777,
+      "change_percentage": 68.69125582003444
+    },
+    {
+      "block_number": 2873027,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2668821994.7299995,
+      "change_percentage": 87.34857588378958
+    },
+    {
+      "block_number": 2873899,
+      "type": "increase_start",
+      "gas_price": 2999322372.5,
+      "moving_avg": 1141113333.1799998,
+      "change_percentage": 162.84176034834616
+    },
+    {
+      "block_number": 2874260,
+      "type": "increase_start",
+      "gas_price": 3279623015,
+      "moving_avg": 1329688239.33675,
+      "change_percentage": 146.646012048349
+    },
+    {
+      "block_number": 2875562,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2874220364.884444,
+      "change_percentage": 73.96021756324245
+    },
+    {
+      "block_number": 2877782,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 3268186302.4383335,
+      "change_percentage": 52.990054338995066
+    },
+    {
+      "block_number": 2882692,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 53853143.58500001,
+      "change_percentage": 9184.509068831176
+    },
+    {
+      "block_number": 2886076,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2555648229.3457146,
+      "change_percentage": 95.64507910699733
+    },
+    {
+      "block_number": 2886840,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2489116455.1326785,
+      "change_percentage": 100.87449061251266
+    },
+    {
+      "block_number": 2889137,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2763103592.9005713,
+      "change_percentage": 80.95593711530896
+    },
+    {
+      "block_number": 2891866,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 3018977667.21,
+      "change_percentage": 65.61897937525221
+    },
+    {
+      "block_number": 2892676,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2706890940.3222218,
+      "change_percentage": 84.71375870816621
+    },
+    {
+      "block_number": 2893787,
+      "type": "increase_start",
+      "gas_price": 2819487327,
+      "moving_avg": 627147339.824,
+      "change_percentage": 349.57335349477034
+    },
+    {
+      "block_number": 2895513,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2230451491.258333,
+      "change_percentage": 124.16986065808571
+    },
+    {
+      "block_number": 2899200,
+      "type": "increase_start",
+      "gas_price": 2896133947.5,
+      "moving_avg": 858301403.08,
+      "change_percentage": 237.42621614123811
+    },
+    {
+      "block_number": 2899587,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 1201447698.5080001,
+      "change_percentage": 316.1645992754554
+    },
+    {
+      "block_number": 2900881,
+      "type": "increase_start",
+      "gas_price": 5000000000,
+      "moving_avg": 2515459817.564584,
+      "change_percentage": 98.77081578034893
+    },
+    {
+      "block_number": 2901645,
+      "type": "increase_start",
+      "gas_price": 2978452397,
+      "moving_avg": 923131648.42,
+      "change_percentage": 222.64654798671626
+    },
+    {
+      "block_number": 2907736,
+      "type": "increase_start",
+      "gas_price": 2508975441.5,
+      "moving_avg": 31555169.77444444,
+      "change_percentage": 7851.075717335998
+    }
+  ],
+  "decreases": [
+    {
+      "block_number": 2796753,
+      "type": "decrease_start",
+      "gas_price": 140987258,
+      "moving_avg": 4110539488.965,
+      "change_percentage": -96.5701033069141
+    },
+    {
+      "block_number": 2833896,
+      "type": "decrease_start",
+      "gas_price": 1265053707,
+      "moving_avg": 3399706128.1000004,
+      "change_percentage": -62.78932180214639
+    },
+    {
+      "block_number": 2836173,
+      "type": "decrease_start",
+      "gas_price": 1951247341,
+      "moving_avg": 3170497962.575,
+      "change_percentage": -38.45612380033686
+    },
+    {
+      "block_number": 2844726,
+      "type": "decrease_start",
+      "gas_price": 1531866533,
+      "moving_avg": 3146641376.41,
+      "change_percentage": -51.3174095883877
+    },
+    {
+      "block_number": 2855499,
+      "type": "decrease_start",
+      "gas_price": 2002649911,
+      "moving_avg": 4151413267.19,
+      "change_percentage": -51.75980365945235
+    },
+    {
+      "block_number": 2867181,
+      "type": "decrease_start",
+      "gas_price": 1337655168,
+      "moving_avg": 3188425471.019231,
+      "change_percentage": -58.04652860295971
+    },
+    {
+      "block_number": 2875316,
+      "type": "decrease_start",
+      "gas_price": 1568440386,
+      "moving_avg": 3745999716.619091,
+      "change_percentage": -58.130258818717216
+    },
+    {
+      "block_number": 2877547,
+      "type": "decrease_start",
+      "gas_price": 1915051609,
+      "moving_avg": 4132476126.811429,
+      "change_percentage": -53.658495530677584
+    },
+    {
+      "block_number": 2882824,
+      "type": "decrease_start",
+      "gas_price": 33067197,
+      "moving_avg": 108298559.17192307,
+      "change_percentage": -69.46663256386809
+    },
+    {
+      "block_number": 2900533,
+      "type": "decrease_start",
+      "gas_price": 1747440607,
+      "moving_avg": 2866101159.7509093,
+      "change_percentage": -39.030742126636284
+    },
+    {
+      "block_number": 2907837,
+      "type": "decrease_start",
+      "gas_price": 17661526,
+      "moving_avg": 48694938.76647727,
+      "change_percentage": -63.73026345777314
+    }
+  ],
+  "trend_analysis": [
+    {
+      "block_number": 2858126,
+      "type": "increase_start",
+      "gas_price_change": 65.49831030636201,
+      "metrics": {
+        "avg_transactions_per_block": 1.0952380952380953,
+        "avg_gas_used_per_block": 53915.42857142857,
+        "avg_gas_price": 332912024.8095238,
+        "unique_senders": 2,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.0
+      }
+    },
+    {
+      "block_number": 2861182,
+      "type": "increase_start",
+      "gas_price_change": 78.44294301100797,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 122099.33333333333,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -0.027348557363599073
+      }
+    },
+    {
+      "block_number": 2863812,
+      "type": "increase_start",
+      "gas_price_change": 134.12021123875485,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46069.42857142857,
+        "avg_gas_price": 476190476.1904762,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.0
+      }
+    },
+    {
+      "block_number": 2864824,
+      "type": "increase_start",
+      "gas_price_change": 1662.1749236010974,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46474.57142857143,
+        "avg_gas_price": 2380952380.952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -0.027348557363599073
+      }
+    },
+    {
+      "block_number": 2868570,
+      "type": "increase_start",
+      "gas_price_change": 292.36152692814125,
+      "metrics": {
+        "avg_transactions_per_block": 3.761904761904762,
+        "avg_gas_used_per_block": 691754.1428571428,
+        "avg_gas_price": 638750162.6904762,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 2.0776046440574394
+      }
+    },
+    {
+      "block_number": 2869320,
+      "type": "increase_start",
+      "gas_price_change": 68.69125582003444,
+      "metrics": {
+        "avg_transactions_per_block": 1.5714285714285714,
+        "avg_gas_used_per_block": 151069.80952380953,
+        "avg_gas_price": 809896424.8571428,
+        "unique_senders": 12,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": -80.0,
+        "gas_used_change_percentage": -94.21169931872073
+      }
+    },
+    {
+      "block_number": 2873027,
+      "type": "increase_start",
+      "gas_price_change": 87.34857588378958,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46906.71428571428,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.0
+      }
+    },
+    {
+      "block_number": 2873899,
+      "type": "increase_start",
+      "gas_price_change": 162.84176034834616,
+      "metrics": {
+        "avg_transactions_per_block": 5.142857142857143,
+        "avg_gas_used_per_block": 1866372.9047619049,
+        "avg_gas_price": 1047615087.3095238,
+        "unique_senders": 21,
+        "unique_recipients": 4,
+        "tx_count_change_percentage": 100.0,
+        "gas_used_change_percentage": 957.1669675491099
+      }
+    },
+    {
+      "block_number": 2874260,
+      "type": "increase_start",
+      "gas_price_change": 146.646012048349,
+      "metrics": {
+        "avg_transactions_per_block": 7.333333333333333,
+        "avg_gas_used_per_block": 9394060.095238095,
+        "avg_gas_price": 1552821086,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": -11.11111111111111,
+        "gas_used_change_percentage": -10.726467806362242
+      }
+    },
+    {
+      "block_number": 2875562,
+      "type": "increase_start",
+      "gas_price_change": 73.96021756324245,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46507.28571428572,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -0.05468215994531783
+      }
+    },
+    {
+      "block_number": 2877782,
+      "type": "increase_start",
+      "gas_price_change": 52.990054338995066,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46903.28571428572,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -16.025714613706807
+      }
+    },
+    {
+      "block_number": 2882692,
+      "type": "increase_start",
+      "gas_price_change": 9184.509068831176,
+      "metrics": {
+        "avg_transactions_per_block": 1.619047619047619,
+        "avg_gas_used_per_block": 166637.52380952382,
+        "avg_gas_price": 252864282.2857143,
+        "unique_senders": 10,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 10.413156356383894
+      }
+    },
+    {
+      "block_number": 2886076,
+      "type": "increase_start",
+      "gas_price_change": 95.64507910699733,
+      "metrics": {
+        "avg_transactions_per_block": 1.3333333333333333,
+        "avg_gas_used_per_block": 68382.95238095238,
+        "avg_gas_price": 700467051.2380953,
+        "unique_senders": 7,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.027348557363599073
+      }
+    },
+    {
+      "block_number": 2886840,
+      "type": "increase_start",
+      "gas_price_change": 100.87449061251266,
+      "metrics": {
+        "avg_transactions_per_block": 1.0952380952380953,
+        "avg_gas_used_per_block": 53902.28571428572,
+        "avg_gas_price": 352178634.1904762,
+        "unique_senders": 2,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -0.027348557363599073
+      }
+    },
+    {
+      "block_number": 2889137,
+      "type": "increase_start",
+      "gas_price_change": 80.95593711530896,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 47171.666666666664,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 12.7353115456493
+      }
+    },
+    {
+      "block_number": 2891866,
+      "type": "increase_start",
+      "gas_price_change": 65.61897937525221,
+      "metrics": {
+        "avg_transactions_per_block": 1.0476190476190477,
+        "avg_gas_used_per_block": 46510.71428571428,
+        "avg_gas_price": 238095238.0952381,
+        "unique_senders": 1,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.0
+      }
+    },
+    {
+      "block_number": 2892676,
+      "type": "increase_start",
+      "gas_price_change": 84.71375870816621,
+      "metrics": {
+        "avg_transactions_per_block": 1.1428571428571428,
+        "avg_gas_used_per_block": 57652.95238095238,
+        "avg_gas_price": 494962409.4285714,
+        "unique_senders": 3,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 19.111414900888583
+      }
+    },
+    {
+      "block_number": 2893787,
+      "type": "increase_start",
+      "gas_price_change": 349.57335349477034,
+      "metrics": {
+        "avg_transactions_per_block": 5.0476190476190474,
+        "avg_gas_used_per_block": 1240922.0952380951,
+        "avg_gas_price": 794669192.2619047,
+        "unique_senders": 19,
+        "unique_recipients": 3,
+        "tx_count_change_percentage": 50.0,
+        "gas_used_change_percentage": 324.1096852608709
+      }
+    },
+    {
+      "block_number": 2895513,
+      "type": "increase_start",
+      "gas_price_change": 124.16986065808571,
+      "metrics": {
+        "avg_transactions_per_block": 1.2380952380952381,
+        "avg_gas_used_per_block": 69128.61904761905,
+        "avg_gas_price": 499584129.9047619,
+        "unique_senders": 5,
+        "unique_recipients": 4,
+        "tx_count_change_percentage": -66.66666666666666,
+        "gas_used_change_percentage": -84.72225123780474
+      }
+    },
+    {
+      "block_number": 2899200,
+      "type": "increase_start",
+      "gas_price_change": 237.42621614123811,
+      "metrics": {
+        "avg_transactions_per_block": 5.190476190476191,
+        "avg_gas_used_per_block": 1418575,
+        "avg_gas_price": 892658729.9761904,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 250.0,
+        "gas_used_change_percentage": 1452.279255839136
+      }
+    },
+    {
+      "block_number": 2899587,
+      "type": "increase_start",
+      "gas_price_change": 316.1645992754554,
+      "metrics": {
+        "avg_transactions_per_block": 7.571428571428571,
+        "avg_gas_used_per_block": 5070605.666666667,
+        "avg_gas_price": 1582885371.4285715,
+        "unique_senders": 18,
+        "unique_recipients": 3,
+        "tx_count_change_percentage": -27.27272727272727,
+        "gas_used_change_percentage": 32.88361322318179
+      }
+    },
+    {
+      "block_number": 2900881,
+      "type": "increase_start",
+      "gas_price_change": 98.77081578034893,
+      "metrics": {
+        "avg_transactions_per_block": 1.0952380952380953,
+        "avg_gas_used_per_block": 48529.42857142857,
+        "avg_gas_price": 476190476.1904762,
+        "unique_senders": 2,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -16.044990244462298
+      }
+    },
+    {
+      "block_number": 2901645,
+      "type": "increase_start",
+      "gas_price_change": 222.64654798671626,
+      "metrics": {
+        "avg_transactions_per_block": 5.666666666666667,
+        "avg_gas_used_per_block": 3198124.523809524,
+        "avg_gas_price": 1048412555.0952381,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": -66.66666666666666,
+        "gas_used_change_percentage": -46.727852536929845
+      }
+    },
+    {
+      "block_number": 2907736,
+      "type": "increase_start",
+      "gas_price_change": 7851.075717335998,
+      "metrics": {
+        "avg_transactions_per_block": 7.428571428571429,
+        "avg_gas_used_per_block": 2199876.523809524,
+        "avg_gas_price": 136542454.02380952,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 14.285714285714285,
+        "gas_used_change_percentage": 390.2680289755993
+      }
+    },
+    {
+      "block_number": 2796753,
+      "type": "decrease_start",
+      "gas_price_change": -96.5701033069141,
+      "metrics": {
+        "avg_transactions_per_block": 4.380952380952381,
+        "avg_gas_used_per_block": 8819264.80952381,
+        "avg_gas_price": 83650889.23809524,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": -50.0,
+        "gas_used_change_percentage": -98.75590128664072
+      }
+    },
+    {
+      "block_number": 2833896,
+      "type": "decrease_start",
+      "gas_price_change": -62.78932180214639,
+      "metrics": {
+        "avg_transactions_per_block": 4.476190476190476,
+        "avg_gas_used_per_block": 6392981.904761905,
+        "avg_gas_price": 740544953.2857143,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 400.0,
+        "gas_used_change_percentage": 22299.086102374768
+      }
+    },
+    {
+      "block_number": 2836173,
+      "type": "decrease_start",
+      "gas_price_change": -38.45612380033686,
+      "metrics": {
+        "avg_transactions_per_block": 7.285714285714286,
+        "avg_gas_used_per_block": 8588377.38095238,
+        "avg_gas_price": 1952578785.6666667,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": -42.857142857142854,
+        "gas_used_change_percentage": -29.060303683643607
+      }
+    },
+    {
+      "block_number": 2844726,
+      "type": "decrease_start",
+      "gas_price_change": -51.3174095883877,
+      "metrics": {
+        "avg_transactions_per_block": 6.809523809523809,
+        "avg_gas_used_per_block": 8977598.952380951,
+        "avg_gas_price": 1461006332.6666667,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": -83.33333333333334,
+        "gas_used_change_percentage": -99.31258249468658
+      }
+    },
+    {
+      "block_number": 2855499,
+      "type": "decrease_start",
+      "gas_price_change": -51.75980365945235,
+      "metrics": {
+        "avg_transactions_per_block": 4.761904761904762,
+        "avg_gas_used_per_block": 7430606.714285715,
+        "avg_gas_price": 1181603538.3809524,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 700.0,
+        "gas_used_change_percentage": 31778.660239488887
+      }
+    },
+    {
+      "block_number": 2867181,
+      "type": "decrease_start",
+      "gas_price_change": -58.04652860295971,
+      "metrics": {
+        "avg_transactions_per_block": 1.4285714285714286,
+        "avg_gas_used_per_block": 62820.80952380953,
+        "avg_gas_price": 571854636.6190476,
+        "unique_senders": 3,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": 0.0
+      }
+    },
+    {
+      "block_number": 2875316,
+      "type": "decrease_start",
+      "gas_price_change": -58.130258818717216,
+      "metrics": {
+        "avg_transactions_per_block": 7.761904761904762,
+        "avg_gas_used_per_block": 15414730.523809524,
+        "avg_gas_price": 1569596336.142857,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": -36.36363636363637,
+        "gas_used_change_percentage": -51.056821901587334
+      }
+    },
+    {
+      "block_number": 2877547,
+      "type": "decrease_start",
+      "gas_price_change": -53.658495530677584,
+      "metrics": {
+        "avg_transactions_per_block": 5.714285714285714,
+        "avg_gas_used_per_block": 9550839.333333334,
+        "avg_gas_price": 1398931283.9047618,
+        "unique_senders": 17,
+        "unique_recipients": 2,
+        "tx_count_change_percentage": 300.0,
+        "gas_used_change_percentage": 16841.221234905443
+      }
+    },
+    {
+      "block_number": 2882824,
+      "type": "decrease_start",
+      "gas_price_change": -69.46663256386809,
+      "metrics": {
+        "avg_transactions_per_block": 5.761904761904762,
+        "avg_gas_used_per_block": 6242060.523809524,
+        "avg_gas_price": 31361182.80952381,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 0.0,
+        "gas_used_change_percentage": -23.14043948375376
+      }
+    },
+    {
+      "block_number": 2900533,
+      "type": "decrease_start",
+      "gas_price_change": -39.030742126636284,
+      "metrics": {
+        "avg_transactions_per_block": 7.142857142857143,
+        "avg_gas_used_per_block": 11171359.095238095,
+        "avg_gas_price": 1665747084.2900434,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 200.0,
+        "gas_used_change_percentage": 620.908249632239
+      }
+    },
+    {
+      "block_number": 2907837,
+      "type": "decrease_start",
+      "gas_price_change": -63.73026345777314,
+      "metrics": {
+        "avg_transactions_per_block": 6.809523809523809,
+        "avg_gas_used_per_block": 1697232.238095238,
+        "avg_gas_price": 16814318.29004329,
+        "unique_senders": 16,
+        "unique_recipients": 1,
+        "tx_count_change_percentage": 37.5,
+        "gas_used_change_percentage": 46.65254173616433
+      }
+    }
+  ]
+}

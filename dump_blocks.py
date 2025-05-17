@@ -73,7 +73,7 @@ def main():
     # Get the latest saved block number
     latest_saved = get_latest_saved_block()
     start_block = latest_saved + 1 if latest_saved is not None else 2714870
-    end_block = 2893263
+    end_block = 2930000
     
     if start_block > end_block:
         print("All blocks have been saved. Waiting for new blocks...")
@@ -88,7 +88,7 @@ def main():
             print(f"Saved block {block_number}")
             
             # Add a small delay to avoid rate limiting
-            time.sleep(0.01)
+            # time.sleep(0.01)
             
         except Exception as e:
             print(f"Error saving block {block_number}: {str(e)}")
